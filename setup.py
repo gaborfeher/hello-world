@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="hallo-world-gfeher",
-    version="0.0.1",
+    version="0.0.7",
     author="Gabor Feher",
     author_email="feherga@gmail.com",
     description="A small example package",
